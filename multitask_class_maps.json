@@ -1,0 +1,41 @@
+{
+  "species_map": {
+    "0": "Apple",
+    "1": "Blueberry",
+    "2": "Cherry_(including_sour)",
+    "3": "Corn_(maize)",
+    "4": "Grape",
+    "5": "Orange",
+    "6": "Peach",
+    "7": "Pepper,_bell",
+    "8": "Potato",
+    "9": "Raspberry",
+    "10": "Soybean",
+    "11": "Squash",
+    "12": "Strawberry",
+    "13": "Tomato"
+  },
+  "disease_map": {
+    "0": "_Apple_scab",
+    "1": "_Black_rot",
+    "2": "_Cedar_apple_rust",
+    "3": "_healthy",
+    "4": "_Powdery_mildew",
+    "5": "_Cercospora_leaf_spot Gray_leaf_spot",
+    "6": "_Common_rust_",
+    "7": "_Northern_Leaf_Blight",
+    "8": "_Esca_(Black_Measles)",
+    "9": "_Leaf_blight_(Isariopsis_Leaf_Spot)",
+    "10": "_Haunglongbing_(Citrus_greening)",
+    "11": "_Bacterial_spot",
+    "12": "_Early_blight",
+    "13": "_Late_blight",
+    "14": "_Leaf_scorch",
+    "15": "_Leaf_Mold",
+    "16": "_Septoria_leaf_spot",
+    "17": "_Spider_mites Two-spotted_spider_mite",
+    "18": "_Target_Spot",
+    "19": "_Tomato_mosaic_virus",
+    "20": "_Tomato_Yellow_Leaf_Curl_Virus"
+  }
+}
